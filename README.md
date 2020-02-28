@@ -1,2 +1,2 @@
 # CPALGOS
-# CPAlgos
+Collection of competive programming algorithms
